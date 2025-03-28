@@ -49,6 +49,9 @@ It includes information on:
 #### **4. Average Injury Rate by Aircraft Damage Category**
 #### **5. Average Injury Rate by Number of Engines**
 
+### Tableau Dashboard link to displaying The Visuals
+https://public.tableau.com/app/profile/calistus.mwonga/viz/Aircraft-Risk-Analysis-Project/AircraftRiskAnalysis
+
 ## **Business Recommendations**
 
 This analysis leads to **three Business recommendations**:
