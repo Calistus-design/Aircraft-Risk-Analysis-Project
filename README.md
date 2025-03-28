@@ -1,7 +1,7 @@
 #  **Aircraft Purchase Risk Analysis**
 
 ## **Overview**
-> The aim of this project is to analyze which aircraft are the lowest risk for a company to start as a new business endeavor using actionable insights derived from In-depth data analysis.
+The aim of this project is to analyze which aircraft are the lowest risk for a company to start as a new business endeavor using actionable insights derived from In-depth data analysis.
 
 ## **Business Problem**
 
@@ -23,7 +23,7 @@ It includes information on:
 - Injury & Damage Information: Number of fatalities, serious injuries, minor injuries, and uninjured passengers.
 
 
-> To gain these insights begin by:
+To gain these insights begin by:
 1. Importing required libraries
 2. Loading the dataset
 3. Displaying an overview
@@ -31,23 +31,23 @@ It includes information on:
 ## **Data Preparation**
 ### **Data cleaning**
 
-> In this step after I will further explore and understood the data. Then I will be clean it so that what is left are the relevant columns with clean rows
-#### **1.Select relevant features** 
-#### **2.Deal with missing values**
-#### **3. Imputing**
-#### **4. Deal with duplicate values in the dataframe**
-#### **5. Ensure consistent formatting in the Categorical columns**
-#### **6. Validate that the data is clean**
+In this step after I will further explore and understood the data. Then I will be clean it so that what is left are the relevant columns with clean rows
+#### 1.Select relevant features
+#### 2.Deal with missing values
+#### 3. Imputing
+#### 4. Deal with duplicate values in the dataframe
+#### 5. Ensure consistent formatting in the Categorical columns
+#### 6. Validate that the data is clean
 
 ## **Data Analysis**
 
-> Here I identify key insights from the cleaned dataset to help the company make data-driven decision about which aircraft to buy
+Here I identify key insights from the cleaned dataset to help the company make data-driven decision about which aircraft to buy
 ### **The Visualization include**
-#### **1. Average Injury Rate by Aircraft Make**
-#### **2. Average Injury Rate by Aircraft Model**
-#### **3. Average Injury Rate by Engine Type**
-#### **4. Average Injury Rate by Aircraft Damage Category**
-#### **5. Average Injury Rate by Number of Engines**
+#### 1. Average Injury Rate by Aircraft Make
+#### 2. Average Injury Rate by Aircraft Model
+#### 3. Average Injury Rate by Engine Type
+#### 4. Average Injury Rate by Aircraft Damage Category
+#### 5. Average Injury Rate by Number of Engines
 
 ### Tableau Dashboard link to displaying The Visuals
 https://public.tableau.com/app/profile/calistus.mwonga/viz/Aircraft-Risk-Analysis-Project/AircraftRiskAnalysis
